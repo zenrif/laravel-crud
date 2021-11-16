@@ -1,4 +1,4 @@
-# Tampilan Aplikasi CRUD CodeIgniter 4 Framework
+# Tampilan Aplikasi CRUD Framework Laravel 8
 
 ## Halaman Utama
 ![screencapture-127-0-0-1-8000-mahasiswa-2021-11-16-15_28_18](https://user-images.githubusercontent.com/92130191/141949463-81314b8b-57fb-4502-96c8-73e06a84f3b2.png)
